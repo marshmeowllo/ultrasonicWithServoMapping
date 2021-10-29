@@ -1,4 +1,5 @@
-# laughing-octo-tribble
+# laughing-octo-tribble ![license](https://img.shields.io/github/license/{marshmeowllo}/{laughing-octo-tribble}.svg) ![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+
 This project is a long term project made to create 3D model from distance sensor and camera
 <br>
 This project is baseed on ESP8266
