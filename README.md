@@ -1,4 +1,4 @@
-# laughing-octo-tribble ![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+# laughing-octo-tribble ![love](http://ForTheBadge.com/images/badges/built-with-love.svg) ![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
 This project is a long term project made to create 3D model from distance sensor and camera
 <br>
