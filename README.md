@@ -48,8 +48,10 @@ The results were found to be highly inaccurate. I highly recommend that if there
 <img src="https://github.com/marshmeowllo/laughing-octo-tribble/blob/main/img/oled.gif" width="20%" height="20%">
 
 ## reference
-
-- [HC-SR04](https://randomnerdtutorials.com/micropython-hc-sr04-ultrasonic-esp32-esp8266/)
-- [OLED](https://randomnerdtutorials.com/micropython-oled-display-esp32-esp8266/)
-- [Servo1](http://techawarey.com/programming/micropython/servo-motor-control-using-micropython/)
-- [Servo2](https://github.com/pvanallen/esp32-getstarted/blob/master/docs/servo.md)
+- HC-SR04
+  - [randomnerdtutorials](https://randomnerdtutorials.com/micropython-hc-sr04-ultrasonic-esp32-esp8266/)
+- OLED
+  - [randomnerdtutorials](https://randomnerdtutorials.com/micropython-oled-display-esp32-esp8266/)
+- Servo
+  - [techawarey](http://techawarey.com/programming/micropython/servo-motor-control-using-micropython/)
+  - [pvanallen](https://github.com/pvanallen/esp32-getstarted/blob/master/docs/servo.md)
