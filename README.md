@@ -1,4 +1,4 @@
-# laughing-octo-tribble ![love](http://ForTheBadge.com/images/badges/built-with-love.svg) ![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
+# ultrasonicWithServoMapping ![love](http://ForTheBadge.com/images/badges/built-with-love.svg) ![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 > :warning:This project is not finished yet. So there might be some problems. If you find it, please inform me. Thank you.
 <br>
 This project is a long term project made to create 3D model from distance sensor and camera.
