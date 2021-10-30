@@ -26,7 +26,7 @@ while True:
         #distance calculator
         distance = sensor.distance_cm()
         print('Distance:', distance, 'mm')
-        oled.text('Alogorimeow', 0, 10)
+        oled.text('Algorimeow', 0, 10)
         oled.text('Current Distance', 0, 30)
         oled.text(str(distance)+' mm' , 0, 40)
         oled.show()
