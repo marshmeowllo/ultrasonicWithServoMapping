@@ -1,8 +1,18 @@
 # laughing-octo-tribble ![love](http://ForTheBadge.com/images/badges/built-with-love.svg) ![python](http://ForTheBadge.com/images/badges/made-with-python.svg)
 
-This project is a long term project made to create 3D model from distance sensor and camera
+This project is a long term project made to create 3D model from distance sensor and camera.
 <br>
-This project is baseed on ESP8266
+This project is baseed on ESP8266.
+
+# requirement
+- ESP8266
+- Servo MG90S (I recommend using a more efficient servo.)
+- HC-SR04 Ultrasonic Sensor
+- OLED Display 0.96 inch
+- library
+  - [servo.py](https://github.com/pvanallen/esp32-getstarted/blob/master/examples/servo.py)
+  - [hcsr04.py](https://raw.githubusercontent.com/RuiSantosdotme/Random-Nerd-Tutorials/master/Projects/ESP-MicroPython/HCSR04/hcsr04.py)
+  - [ssd1306.py](https://raw.githubusercontent.com/RuiSantosdotme/ESP-MicroPython/master/code/Others/OLED/ssd1306.py)
 
 ## OLED Display
 | OLED  | ESP8266 |
